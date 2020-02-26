@@ -21366,13 +21366,13 @@ MonoBehaviour:
   jumpTimerSet: 0.15
   turnTimerSet: 0.1
   wallJumpTimerSet: 0.5
-  ledgeClimbXOffset1: 0.5
+  ledgeClimbXOffset1: 0.54
   ledgeClimbXOffset2: 0
   ledgeClimbYOffset1: 0
   ledgeClimbYOffset2: 1.8
   dashTime: 0.2
   dashSpeed: 50
-  distanceBetweenImages: 0.1
+  distanceBetweenImages: 1.16
   dashCoolDown: 2.5
   wallHopDirection: {x: 0.70710677, y: 0.70710677}
   wallJumpDirection: {x: 0.70710677, y: 0.70710677}
